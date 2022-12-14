@@ -185,8 +185,8 @@ body {
   .flex-container {
     display: -webkit-flex;
     display: flex;
-    width: 400px;
-    height: 1400px;
+    width: 395px;
+    height: 1425px;
     background-color: rgb(113, 113, 113,1);
     float: right;
 }
